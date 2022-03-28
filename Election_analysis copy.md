@@ -6,37 +6,37 @@ The purpose of the election audit is to have an automated election vote counting
 
 
 ## Election Audit Results
-	•	How many votes were cast in this congressional election?
+	•How many votes were cast in this congressional election?
 <img width="230" alt="Screen Shot 2022-03-27 at 10 23 45 PM" src="https://user-images.githubusercontent.com/100812308/160320844-797c684a-392a-4f1c-a95f-d337a0597005.png">
 
 	
-		•	a total of 369,711 votes were cast in this election
+		•a total of 369,711 votes were cast in this election
 
-	•	Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+	•Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
 <img width="242" alt="Screen Shot 2022-03-27 at 10 34 48 PM" src="https://user-images.githubusercontent.com/100812308/160320864-d18d4b71-bdcc-405b-ba2c-203146e95dbe.png">
 		
 
-		•	There were 38,855 votes in Jefferson, 306,055 votes in Denver and 24,801 in Arapahoe with percentages 10.5%, 82.8% and 6.7% respectively
+		•There were 38,855 votes in Jefferson, 306,055 votes in Denver and 24,801 in Arapahoe with percentages 10.5%, 82.8% and 6.7% respectively
 
-	•	Which county had the largest number of votes?
+	•Which county had the largest number of votes?
 		
 <img width="273" alt="Screen Shot 2022-03-27 at 10 39 51 PM" src="https://user-images.githubusercontent.com/100812308/160320883-e88642ce-87db-4058-bec4-dbd1135c2415.png">
 
-		•	The county with highest number of votes was Denver with turnout of 306,055 votes
+		•The county with highest number of votes was Denver with turnout of 306,055 votes
 
-	•	Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+	•Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 		
 <img width="352" alt="Screen Shot 2022-03-27 at 10 42 04 PM" src="https://user-images.githubusercontent.com/100812308/160320907-e1bf2b23-e997-4291-a56b-62c83cdb48ae.png">
 
-		•	Charles Casper Stockham had 85,213 votes, Diana DeGette had 272,892, and Raymon Anthony Doane had 11,606. The percentage of votes each accumulated was 23.0%, 73.8%, and 3.1%, respectively
+		•Charles Casper Stockham had 85,213 votes, Diana DeGette had 272,892, and Raymon Anthony Doane had 11,606. The percentage of votes each accumulated was 23.0%, 73.8%, and 3.1%, respectively
 
-	•	Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+	•Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 		
 <img width="272" alt="Screen Shot 2022-03-27 at 10 43 52 PM" src="https://user-images.githubusercontent.com/100812308/160320929-b5ac0a23-1467-47f0-8160-ff6dd73d8bc3.png">
 
 	
-		•	Diana DeGette had the most votes and led by a huge margin. Total votes cast to her name were 272,892 which was 73.8% of the total votes cast. 
+		•Diana DeGette had the most votes and led by a huge margin. Total votes cast to her name were 272,892 which was 73.8% of the total votes cast. 
 
 
 
